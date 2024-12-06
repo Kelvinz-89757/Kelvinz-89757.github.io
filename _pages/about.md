@@ -31,7 +31,7 @@ My current focus is on **developing reliable foundation models, facillitating ap
 
 ## Collaborations:
 
-I am very grateful to collaborate with outstanding researchers in the field:
+I am very grateful for the opportunity to collaborate with outstanding researchers in the field:
 
 - I am fortunate to work with Prof. [Huaxiu Yao](https://www.huaxiuyao.io/) in the Department of Computer Science at UNC-Chapel Hill as a research intern, focusing on developing trustworthy and knowledge-enhanced vision-language models.
 - I've had the privilege of contributing as a research assistant at the West China Biomedical Big Data Center, under the guidance of Prof. [James Li](https://ieeexplore.ieee.org/author/37085472091), where I focused on medical imaging and advancing the visual understanding of foundation models.
