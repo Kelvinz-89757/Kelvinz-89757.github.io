@@ -1,0 +1,23 @@
+<div class="education">
+  <table class="table table-borderless">
+    {% assign educations = site.data.education %}
+    {% for edu in educations %}
+        <tr style="padding: 0;">
+        <!-- Degree Column -->
+        <td style="width: 15%; font-weight: bold; vertical-align: top;">
+          {{ edu.degree }}
+        </td>
+        <!-- Description Column -->
+        <td style="width: 70%; vertical-align: top;">
+          <strong>{{ edu.duration }}</strong><br />
+          {{ edu.university }} <br />
+          <em>{{ edu.description }}</em>
+        </td>
+        <!-- Image Column -->
+        <td style="width: 15%; vertical-align: top;">
+          <img src="{{ edu.image | relative_url }}" alt="{{ edu.university }} logo" style="width: 60px; height: auto;" />
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
+</div>

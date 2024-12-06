@@ -1,0 +1,17 @@
+- degree: "M.S."
+  duration: "2023-2025 (expected)"
+  university: "Brown University"
+  description: "Department of Computer Science"
+  image: "/assets/img/brown_logo.png"
+
+- degree: "B.S."
+  duration: "2019-2023 (double-degree)"
+  university: "University of Illinois Urbana-Champaign (UIUC)"
+  description: "Electrical Engineering with Honor."
+  image: "/assets/img/uiuc_logo.png"
+
+- degree: "B.E."
+  duration: "2019-2023 (double-degree)"
+  university: "Zhejiang University (ZJU)"
+  description: "Electrical Engineering and Automation, Outstanding Undergraduate Student."
+  image: "/assets/img/zju_logo.png"
