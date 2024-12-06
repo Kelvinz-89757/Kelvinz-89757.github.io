@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 
-Hello, I am Kangyu Zhu, a second-year master’s student studying Computer Science at [Brown University](https://www.brown.edu/). Before joining Brown in 2023, I earned dual degrees in Electrical Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) and [University of Illinois Urbana-Champaign](https://illinois.edu/index.html).
+Hello! I am Kangyu Zhu, a second-year master’s student studying Computer Science at [Brown University](https://www.brown.edu/). Before joining Brown in 2023, I earned dual degrees in Electrical Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) and [University of Illinois Urbana-Champaign](https://illinois.edu/index.html).
 
 
 ## Research Interest:
