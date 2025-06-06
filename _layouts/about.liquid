@@ -86,13 +86,13 @@ layout: default
 {% comment %} </div> {% endcomment %}
 
     <!-- Selected papers -->
-    {% if page.selected_papers %}
+    {% comment %} {% if page.selected_papers %}
       <h2 >
         {% comment %} <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a> {% endcomment %}
         Selected Research
       </h2>
       {% include selected_papers.liquid %}
-    {% endif %}
+    {% endif %} {% endcomment %}
 
     <!-- Social -->
     {% if page.social %}
