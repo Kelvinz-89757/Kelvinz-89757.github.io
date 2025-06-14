@@ -27,7 +27,8 @@ Hello! I am Kangyu Zhu, I recently received a Master of Science degree in Comput
 
 ## Research Interest:
 
-I have research interest on **developing reliable foundation models, facillitating applications in interdisciplinary areas**. I am also interested in **leveraging knowledge-augmented techniques** to enhance the factuality and trustworthiness of these models. Additionally, I am also exploring optimization methods to improve model calibration, **aligning them more effectively with human objectives and preferences**.
+ My research focuses on **multimodal LLMs and agents**, especially those integrating vision and language. I am interested in building **reliable foundation models for interdisciplinary applications**, with a focus on enhancing factuality and trustworthiness through knowledge augmentation and RLHF
+<!-- I have research interest on **developing reliable foundation models, facillitating applications in interdisciplinary areas**. I am also interested in **leveraging knowledge-augmented techniques** to enhance the factuality and trustworthiness of these models. Additionally, I am also exploring optimization methods to improve model calibration, **aligning them more effectively with human objectives and preferences**. -->
 
 ## Collaborations:
 
