@@ -22,12 +22,12 @@ social: false # includes social icons at the bottom of the page
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 
-Hello! I am Kangyu Zhu, a final year master’s student studying Computer Science at [Brown University](https://www.brown.edu/). Before joining Brown in 2023, I earned dual degrees in Electrical Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) and [University of Illinois Urbana-Champaign](https://illinois.edu/index.html).
+Hello! I am Kangyu Zhu, I recently received a Master of Science degree in Computer Science at [Brown University](https://www.brown.edu/). Before joining Brown in 2023, I earned dual degrees in Electrical Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) and [University of Illinois Urbana-Champaign](https://illinois.edu/index.html).
 
 
 ## Research Interest:
 
-My current focus is on **developing reliable foundation models, facillitating applications in healthcare**. I am particularly interested in **leveraging knowledge-augmented techniques** to enhance the factuality and trustworthiness of these models. Additionally, I am also exploring optimization methods to improve model calibration, **aligning them more effectively with human objectives and preferences**.
+I have research interest on **developing reliable foundation models, facillitating applications in interdisciplinary areas**. I am also interested in **leveraging knowledge-augmented techniques** to enhance the factuality and trustworthiness of these models. Additionally, I am also exploring optimization methods to improve model calibration, **aligning them more effectively with human objectives and preferences**.
 
 ## Collaborations:
 
